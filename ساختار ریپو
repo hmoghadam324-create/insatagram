@@ -1,0 +1,10 @@
+instatest/
+├── app.py
+├── database.db
+├── requirements.txt
+├── README.md
+└── templates/
+    ├── login.html
+    ├── register.html
+    ├── feed.html
+    ├── reset.html
